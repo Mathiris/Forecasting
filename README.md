@@ -5,3 +5,6 @@ This case study was made with 2 custom datasets that you can find in the dataset
 With requierement.txt you can install all dependencies.
 
 ```pip install -r /path/to/requirements.txt``` (work on linux)
+
+Don't hesitate to contact me via my linkedin : 
+<p>here (https://www.linkedin.com/in/mathias-gianotti-b92674136/) </p>
