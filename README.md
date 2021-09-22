@@ -4,4 +4,4 @@ This case study was made with 2 custom datasets that you can find in the dataset
 
 With requierement.txt you can install all dependencies.
 
-pip install -r /path/to/requirements.txt
+```pip install -r /path/to/requirements.txt```
