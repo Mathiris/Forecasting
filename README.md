@@ -6,4 +6,4 @@ With requierement.txt you can install all dependencies.
 
 ```pip install -r /path/to/requirements.txt``` (work on linux)
 
-Don't hesitate to contact me via my [Linkedin](https://www.linkedin.com/in/mathias-gianotti-b92674136/) :
+Don't hesitate to contact me via my [Linkedin](https://www.linkedin.com/in/mathias-gianotti-b92674136/)
