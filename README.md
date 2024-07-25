@@ -1,9 +1,14 @@
-# Forecasting
-Passionate about Data science, I decided to feed my Github with problems around data. I will make a series of case studies about different concepts that will be accessible to all curious people. This first case study is about time series forecasting with a dataset I made myself. These case studies are made during my free time, if you appreciate my work do not hesitate to share it, it will motivate me to publish new case studies.
-This case study was made with 2 custom datasets that you can find in the dataset folder. These datasets as well as the whole of my code are usable within the framework of your studies or of professional problems.
-
-With requierement.txt you can install all dependencies.
-
-```pip install -r /path/to/requirements.txt``` (work on linux)
-
+### Forecasting (Custom Dataset)
+**Concepts Covered:**
+- Simple linear regression
+- Creation of the equation line
+- Prediction
+- Multiple linear regression
+- Data preprocessing
+- Correlation matrix
+- Model training concept
+- Seasonal predictive model
+- Non-seasonal predictive model
+- Prediction
+  
 Don't hesitate to contact me via my [Linkedin](https://www.linkedin.com/in/mathias-gianotti-b92674136/)
